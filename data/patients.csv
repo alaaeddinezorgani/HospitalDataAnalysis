@@ -1,0 +1,4 @@
+PatientID, Age, Sex, BloodPressure, Cholesterol, Diagnosis
+0, 47, Male, 22, 23, None
+1, 23, Female, 23, 44, SomeDiagnosis
+2, 22, Male, 22, 33, idk
